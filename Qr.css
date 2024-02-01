@@ -1,0 +1,38 @@
+html {
+    box-sizing: border-box;
+     font-family: "Outfit",sans-serif;
+}
+body {
+    background-color: hsl(220, 15%, 55%);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+
+}
+
+.main {
+    background-color: hsl(0, 0%, 100%);
+    width:200px;
+    height:350px;
+     border-radius: 10px;
+    padding: 15px 10px;
+    text-align: center;
+    
+}
+.Qr-inside img {
+    width: 100%;
+   border-radius: 5px;
+}
+.Qr-inside p{
+    font-size: 15px;
+    line-height:normal;
+}
+.content1 {
+    font-weight: 800;
+    
+}
+.content2 {
+    font-weight:400;
+}
+
